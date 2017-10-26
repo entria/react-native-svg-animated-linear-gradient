@@ -22,9 +22,9 @@
         "gradient"
     ],
     "peerDependencies": {
-        "expo": "16.0.0",
-        "react": "16.0.0-alpha.6",
-        "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
+        "react": "16.0.0-alpha.12",
+        "react-native": "0.48.4",
+        "react-native-svg": "5.4.2",
         "prop-types": "^15.5.10"
     },
     "dependencies": {
